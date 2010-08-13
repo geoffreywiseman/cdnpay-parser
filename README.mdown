@@ -1,0 +1,7 @@
+# Canadian Payments Association Parser
+
+The Canadian Payments Association tracks routing transit numbers for financial institutions and their branches.  They offer this data up in electronic form for, at the time of this writing, $600 in annual fees and $27 per download/FTP.  They also offer up a set of PDFs for free.
+
+Those PDFs are reasonably easy to parse, so if you wanted to suck the information out of the PDFs and use it electronically to, say, parse the Canadian Payments Association PDFs instead of paying for the Financial Institution File (FIF), that would be your call.
+
+It's possible that they'll require you to agree to some sort of license in the future that would prevent this kind of parsing.  Doesn't seem to be true currently.
